@@ -1,0 +1,40 @@
+Elementary Factory
+Author: Tongfei Zou
+EECS 494 P2 Gold
+
+GAME DESIGN REFERENCE
+shapez by Tobias Springer and contributors
+https://shapez.io/
+https://github.com/tobspr-games/shapez.io
+Reference for factory automation, directional transport, tunnel concepts,
+backpressure, component demonstrations, and production statistics.
+
+THIRD PARTY ART
+Kenney Tiny Factory by Kenney
+https://kenney.nl/assets/tiny-factory
+Used for factory tiles and selected component/interface artwork.
+License: Creative Commons Zero (CC0).
+The original license notice is included in LICENSES/Kenney-Tiny-Factory.txt
+and in Assets/Art/External/KenneyTinyFactory/License.txt in the source project.
+
+FONTS
+Liberation Sans
+Digitized data copyright (c) 2010 Google Corporation.
+Copyright (c) 2012 Red Hat, Inc.
+License: SIL Open Font License 1.1.
+See LICENSES/LiberationSans-OFL.txt.
+
+Noto Sans SC fallback font
+Copyright (c) 2014-2021 Adobe, with Reserved Font Name Source.
+License: SIL Open Font License 1.1, as identified in the bundled font metadata.
+See LICENSES/NotoSansSC-OFL.txt.
+
+ENGINE AND DEVELOPMENT
+Unity 6000.5.7f1, C#, Unity UI, and TextMesh Pro.
+Project-specific implementation includes procedural pixel artwork, machine
+visuals, transport and processing logic, goal progression, and interface code.
+Development assistance: OpenAI Codex for implementation, UI iteration,
+verification, and documentation.
+
+Additional dependency notices are retained with their packages and assets
+in the private source submission.
